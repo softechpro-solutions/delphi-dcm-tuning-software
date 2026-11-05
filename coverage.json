@@ -1,9 +1,9 @@
 {
   "software": "Softechpro Solutions v2.0.4",
-  "family": "Delphi DCM & CRD",
-  "slug": "delphi-dcm-tuning-software",
+  "repository": "delphi-dcm-tuning-software",
+  "title": "Delphi DCM & CRD Diesel ECU Tuning Software",
   "official_url": "https://www.softechpro-solutions.com/",
-  "matched_ecu_variants": 4962,
-  "matched_brands_count": 81,
-  "coverage_by_brand": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/delphi-dcm-tuning-software/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
